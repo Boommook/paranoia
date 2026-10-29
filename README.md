@@ -13,7 +13,7 @@ After taking an experimental hallucinogen, Goop-X, on their night off, a college
 ## Getting Started
 ### Prerequisites
 Before cloning the repo, install:
-- Unreal Engine 5.8.4 - Make sure the whole team uses the same version
+- Unreal Engine 5.8.4 - Make sure the whole team uses 5.8. 5.8.0 **is** compatible with 5.8.4, so dw about that on the lab computers.
 - Git
 - Git LFS - Found in the class discord or just look it up
 - Visual Studio 2026 - Currently on the October 2026 Feature Update (18.11.2). Install the Game Development with C++ workload
