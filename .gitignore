@@ -3,7 +3,10 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-Builds/
+# Packaged game builds
+/Builds/
+# Unreal Engine generated build data
+/Build/
 
 # IDE files
 .vs/
